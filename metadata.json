@@ -1,0 +1,6 @@
+{
+  "name": "Qisda Robotics R&D & NIST CSF Architecture Workbench",
+  "description": "Peer-reviewed robotics vision & control architecture benchmark, official PyTorch/TensorFlow/OpenCV reference implementations with Big-O analysis, bias root-cause mitigation, NIST CSF 2.0 governance, Canadian English toddler explanations, and Taiwan-compliant GitHub export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
